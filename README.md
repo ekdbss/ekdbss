@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ekdbss
-- 👀 I’m interested in Data 
-- 🌱 I’m currently learning Data analysis & AI
-- 💞️ I’m looking to collaborate on ... (something interesting) 
+- 👋 Hi, I’m @ekdbss!
+- 👀 I’m interested in Data Science. 
+- 🌱 I’m currently learning Data analysis & AI.
+- 💞️ I’m looking to collaborate on ... (something interesting)
 - 📫 How to reach me ... (I'll prepare it soon! (☞ ͡° ͜ʖ ͡°)☞)
 
 <!---
